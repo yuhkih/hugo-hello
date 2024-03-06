@@ -4,4 +4,4 @@ baseURL = 'https://yuhkih.github.io/hugo-hello/'
 languageCode = 'ja-JP'
 title = 'My New Hugo Site'
 theme = "hugo-book"
-publishDir = "docs"
+# publishDir = "docs"
