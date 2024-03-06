@@ -1,7 +1,7 @@
 # baseURL = 'https://example.org/'
 baseURL = 'https://yuhkih.github.io/hugo-hello/'
 # languageCode = 'en-us'
-languageCode = 'en-us'
+languageCode = 'ja-JP'
 title = 'My New Hugo Site'
 theme = 'ananke'
 publishDir = "docs"
